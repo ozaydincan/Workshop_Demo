@@ -35,3 +35,7 @@ def function(funcInput):
     """This is a placeholder function for future implementation."""
     print("example, function called with input:", funcInput)
     pass
+
+def print_laps(lap_counts):
+    print(lap_counts)
+    return
