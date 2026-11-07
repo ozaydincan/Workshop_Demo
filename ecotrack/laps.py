@@ -23,7 +23,7 @@ def average_lap(lap_times):
 def format_lap_time(seconds):
     """Format a duration in seconds as M:SS.ss
 
-    Examples:
+d    Examples:
         format_lap_time(75.25)  -> "1:15.25"
         format_lap_time(125.5)  -> "2:05.50"
     """
