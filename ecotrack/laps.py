@@ -30,3 +30,6 @@ def format_lap_time(seconds):
     minutes = int(seconds // 60)
     rest = seconds - minutes * 60
     return f"{minutes}:{rest:.2f}"
+
+def print_laps(lap_times):
+	print(lap_times)
